@@ -1,0 +1,12 @@
+D:\Yazılım\NLayerUdemyApp\Nlayer.Caching\bin\Debug\net6.0\Nlayer.Caching.deps.json
+D:\Yazılım\NLayerUdemyApp\Nlayer.Caching\bin\Debug\net6.0\Nlayer.Caching.dll
+D:\Yazılım\NLayerUdemyApp\Nlayer.Caching\bin\Debug\net6.0\Nlayer.Caching.pdb
+D:\Yazılım\NLayerUdemyApp\Nlayer.Caching\obj\Debug\net6.0\Nlayer.Caching.csproj.AssemblyReference.cache
+D:\Yazılım\NLayerUdemyApp\Nlayer.Caching\obj\Debug\net6.0\Nlayer.Caching.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\NLayerUdemyApp\Nlayer.Caching\obj\Debug\net6.0\Nlayer.Caching.AssemblyInfoInputs.cache
+D:\Yazılım\NLayerUdemyApp\Nlayer.Caching\obj\Debug\net6.0\Nlayer.Caching.AssemblyInfo.cs
+D:\Yazılım\NLayerUdemyApp\Nlayer.Caching\obj\Debug\net6.0\Nlayer.Caching.csproj.CoreCompileInputs.cache
+D:\Yazılım\NLayerUdemyApp\Nlayer.Caching\obj\Debug\net6.0\Nlayer.Caching.dll
+D:\Yazılım\NLayerUdemyApp\Nlayer.Caching\obj\Debug\net6.0\refint\Nlayer.Caching.dll
+D:\Yazılım\NLayerUdemyApp\Nlayer.Caching\obj\Debug\net6.0\Nlayer.Caching.pdb
+D:\Yazılım\NLayerUdemyApp\Nlayer.Caching\obj\Debug\net6.0\ref\Nlayer.Caching.dll

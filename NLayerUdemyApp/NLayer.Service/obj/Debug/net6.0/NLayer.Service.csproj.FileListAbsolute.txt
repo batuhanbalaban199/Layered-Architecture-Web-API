@@ -1,0 +1,17 @@
+D:\Yazılım\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Service.deps.json
+D:\Yazılım\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Service.dll
+D:\Yazılım\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Service.pdb
+D:\Yazılım\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Core.dll
+D:\Yazılım\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Repository.dll
+D:\Yazılım\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Repository.pdb
+D:\Yazılım\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Core.pdb
+D:\Yazılım\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.AssemblyReference.cache
+D:\Yazılım\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.AssemblyInfoInputs.cache
+D:\Yazılım\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.AssemblyInfo.cs
+D:\Yazılım\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.CoreCompileInputs.cache
+D:\Yazılım\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.CopyComplete
+D:\Yazılım\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.dll
+D:\Yazılım\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\refint\NLayer.Service.dll
+D:\Yazılım\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.pdb
+D:\Yazılım\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\ref\NLayer.Service.dll
